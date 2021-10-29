@@ -1,7 +1,6 @@
 # Content-Sharing-Platform
 
 Content sharing platform is a social platform where people can watch videos, read blogs, and do comment on the content. To upload a video, write a blog, and comment a user must be logged into the site, User can also manage their uploaded videos and blog from their dashboard.
-
 <br/>
 [![Php](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
