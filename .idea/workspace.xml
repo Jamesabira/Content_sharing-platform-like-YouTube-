@@ -2,67 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d68e823c-5474-4102-97cf-33ed2bd38a6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/AdminLTELogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/avatar2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/avatar3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/avatar4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/avatar5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/boxed-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/boxed-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/american-express.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/cirrus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/mastercard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/paypal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/paypal2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/visa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/default-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/photo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/photo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/photo3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/photo4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/prod-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/prod-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/prod-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/prod-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/prod-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user1-128x128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user2-160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user3-128x128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user4-128x128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user5-128x128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user6-128x128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user7-128x128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user8-128x128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/welcome.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-108878.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-144366.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-152686.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-162843.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-218115.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-262278.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-433414.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-442117.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-490654.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-551743.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-554211.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-568817.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-571870.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-577375.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-591318.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-614808.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-626395.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-649403.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-803021.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-876464.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-892016.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-914969.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-996533.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/story-images/dfa dfd f-158945.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/story-images/dfa dfd f-637917.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/front-end/story-images/dfa dfd f-756672.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,8 +211,16 @@
       <workItem from="1617979287248" duration="882000" />
       <workItem from="1618121563841" duration="4904000" />
       <workItem from="1618165937714" duration="1377000" />
-      <workItem from="1636798501583" duration="303000" />
+      <workItem from="1636798501583" duration="1035000" />
     </task>
+    <task id="LOCAL-00001" summary="add procfile">
+      <created>1636798868280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636798868280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,51 +228,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="add procfile" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612880535616">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="532" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636798757004">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="480" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1612880535616" />
-    <state x="122" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612857598173">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="532" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1636798757004" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1636798864124">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="122" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1612857598173" />
-    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1614709631160">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1614709631160" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1618121584642">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618121584642" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1612381205891">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612381205891" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1612381205891">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612381205891" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1612381205891">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612381205891" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1612381205891">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612381205891" />
-    <state x="604" y="335" key="NewPhpFileDialog" timestamp="1613203636446">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="604" y="335" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1613203636446" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1612528459203">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612528459203" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1612773419012">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1612773419012" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1636798864124" />
   </component>
 </project>
