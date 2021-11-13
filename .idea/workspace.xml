@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d68e823c-5474-4102-97cf-33ed2bd38a6b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_02_05_033534_create_taggable_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_02_05_033534_create_taggable_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +211,7 @@
       <workItem from="1617979287248" duration="882000" />
       <workItem from="1618121563841" duration="4904000" />
       <workItem from="1618165937714" duration="1377000" />
-      <workItem from="1636798501583" duration="1035000" />
+      <workItem from="1636798501583" duration="3720000" />
     </task>
     <task id="LOCAL-00001" summary="add procfile">
       <created>1636798868280</created>
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636798868280</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="edit procfile">
+      <created>1636799590764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636799590764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,16 +236,17 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="add procfile" />
+    <MESSAGE value="edit procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit procfile" />
   </component>
   <component name="WindowStateProjectService">
     <state x="532" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636798757004">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="532" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1636798757004" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1636798864124">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1636799587014">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1636798864124" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1636799587014" />
   </component>
 </project>
