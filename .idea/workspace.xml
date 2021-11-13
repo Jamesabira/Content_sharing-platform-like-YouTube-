@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d68e823c-5474-4102-97cf-33ed2bd38a6b" name="Default Changelist" comment="" />
+    <list default="true" id="d68e823c-5474-4102-97cf-33ed2bd38a6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/AdminLTELogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/avatar2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/avatar3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/avatar4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/avatar5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/boxed-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/boxed-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/american-express.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/cirrus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/mastercard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/paypal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/paypal2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/credit/visa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/default-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/photo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/photo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/photo3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/photo4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/prod-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/prod-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/prod-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/prod-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/prod-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user1-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user2-160x160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user3-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user4-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user5-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user6-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user7-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/user8-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/dist/img/welcome.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-108878.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-144366.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-152686.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-162843.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-218115.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-262278.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-433414.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-442117.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-490654.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-551743.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-554211.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-568817.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-571870.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-577375.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-591318.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-614808.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-626395.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-649403.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-803021.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-876464.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-892016.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-914969.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/customer-images/Joynal Alam-996533.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/story-images/dfa dfd f-158945.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/story-images/dfa dfd f-637917.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/front-end/story-images/dfa dfd f-756672.webp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +72,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -126,11 +191,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1nxRfQipc8VHgaWu6paZQXT1HWD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -201,11 +270,15 @@
       <workItem from="1617979287248" duration="882000" />
       <workItem from="1618121563841" duration="4904000" />
       <workItem from="1618165937714" duration="1377000" />
+      <workItem from="1636798501583" duration="303000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="480" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612880535616">
